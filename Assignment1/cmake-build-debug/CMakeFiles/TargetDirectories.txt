@@ -1,0 +1,3 @@
+K:/Assignments FCAI/Third year/Data Structure/Assignment1/cmake-build-debug/CMakeFiles/Assignment1.dir
+K:/Assignments FCAI/Third year/Data Structure/Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/Assignments FCAI/Third year/Data Structure/Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
